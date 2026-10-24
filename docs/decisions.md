@@ -1,0 +1,1 @@
+DECISION 001: The app is written with Java 25 with Springboot.
